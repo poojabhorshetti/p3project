@@ -6,6 +6,7 @@ public class C {
 		System.out.println("P3 Project");
 		System.out.println("prctice of github");
 		System.out.println("chagnes done in git stage");
+		System.out.println("after making changes in eclipse");
 	}
 
 }
